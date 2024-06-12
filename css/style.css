@@ -1,0 +1,46 @@
+.batas { margin: 0 auto; width:
+    700px;}
+
+.header {width: 100%;   
+    height: 225px;
+background-image: url('../img/bg.jpg');
+background-size: 100% auto;}
+
+.isiweb { display: inline-block;
+     background-color:whitesmoke;}
+.sidebar { width: 200px;
+     float:left;}
+.sidebar a{color: peru;
+      text-decoration: none;}
+.konten { width: 500px;
+     background-color:whitesmoke; float :right;}
+
+
+     nav {
+    background-color: whitesmoke;
+    color:grey;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: ;
+}
+
+
+.logo {
+    width: 50px; /* Sesuaikan ukuran logo dengan kebutuhan Anda */
+    height: 50px; /* Sesuaikan ukuran logo dengan kebutuhan Anda */
+    margin-right: 20px; /* Jarak antara logo dan judul */
+}
